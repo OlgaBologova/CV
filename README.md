@@ -18,22 +18,20 @@
 
 |Organization:| XOR.AI|
 |:--|:--|
-|Position:| Senior Software Developer|
-|Activity in organizations:| Software Development, AI Development and Support.|
+|Position:|QA-ingineer|
+|Activity in organizations:| Testing desktop and mobile versions of the web application in QA and production environments|
 |Period:| November 2019 - June 2020|
 
 |Organization:| XOR.AI|
 |:--|:--|
 |Position:| Auto email deliverability|
-|Activity in organizations:|Development and support of a mailing list delivery program.|
-||The team leader of junior developers.|
-|Period:| June 2019 - November 2019|
+|Activity in organizations:|Periodic updating of data in the messaging system, monitoring crm|
+|Period:| June 2019 - June 2020|
 
 |Organization:| Lux Air Travel LLC luxairtravel.com|
 |:--|:--|
-|Position:| CTO|
-|Activity in organizations:|Development and support of advanced software. Support for CRM.|
-||Support for stable operation of systems. Team leader for 10 people who built ATS.|
+|Position:| QA-ingineer|
+|Activity in organizations:|Testing desktop and mobile versions of the web application in QA and production environments|
 |Period:| March 2018 - March 2020|
 
 
@@ -51,7 +49,7 @@
 # **General skills:**
 
 IOS, Android OS Programming: HTML, CSS, XML, JavaScript, SQL, Python,  Selenium Webdriver,  
-VMWare, , MySQL, MS Access Browsers: Chrome, Firefox, MSIE, Safari, Opera, MS Office.
+VMWare, MySQL, MS Access Browsers: Chrome, Firefox, MSIE, Safari, Opera, MS Office.
 
 
 
